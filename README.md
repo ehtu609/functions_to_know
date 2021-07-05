@@ -1,1 +1,1 @@
-# functions_to_know
+# MailChimp API Integration 
